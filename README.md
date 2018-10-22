@@ -1,4 +1,4 @@
-#Discord Selfbots List
+# Discord Selfbots List
 
 * IDs.txt for list of discord usernames with IDs
 * IDs_plain.txt for reporting via https://dis.gd/request
