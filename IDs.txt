@@ -1,4 +1,3 @@
-As of 22.10.2018:
 @global emotes at twitch.tv/binzy
 <@502659242654695424>
  
